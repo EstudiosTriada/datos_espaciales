@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Luah residencial",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"nombre":"Luah area"},"geometry":{"type":"Polygon","coordinates":[[[-84.175836166037044,9.949244541998009],[-84.129772806270722,9.949244541998009],[-84.129772806270722,9.915434525272165],[-84.175836166037044,9.915434525272165],[-84.175836166037044,9.949244541998009]]]}}
+]
+}
